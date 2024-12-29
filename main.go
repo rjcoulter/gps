@@ -1,10 +1,9 @@
 /*
-Copyright © 2024 NAME HERE <EMAIL ADDRESS>
-
+Copyright © 2024 Ryan Coulter <ryancoulter22@gmail.com>
 */
 package main
 
-import "gps/cmd"
+import "github.com/rjcoulter/gps/cmd"
 
 func main() {
 	cmd.Execute()
